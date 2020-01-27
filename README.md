@@ -6,4 +6,4 @@ För att genomföra laborationerna i Jupyter på webben, klicka på följande kn
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/UU-IM-EU/2IS239/master)
 
-Vill ni hellre köra laborationerna lokalt på er dator finns instruktioner för detta i laborationsinstruktionen som både finns i repositorier och på Studium.
+Vill ni hellre köra laborationerna lokalt på er dator finns instruktioner för detta i laborationsinstruktionen som både finns här i repositoriet och på Studium.
